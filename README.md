@@ -15,7 +15,7 @@
 - **ВКонтакте**: [Molodoy_Espeqize](https://vk.com/xkotsamp)
 - **Telegram**: [Molodoy_Espeqize](https://t.me/CTPAX_YKPAUNY)
 
-Актуальная версия тулса указана в файле **version.txt**.
+Актуальная версия тулса указана в файле **version.txt**. [Ссылка на версию](https://github.com/Kotikdufhsjf/admintools/blob/main/version.txt)
 
 Поддержите проект своими предложениями и помогите сделать его еще лучше!
 
